@@ -9,8 +9,7 @@
 ### 🌸 About Me
 - 📊 Transforming raw data into meaningful insights and stories  
 - 🌌 Exploring the intersection of **AI, analytics, and imagination**  
-- 📚 Lifelong learner, driven by curiosity and problem-solving  
-- 🎮 Passionate about games, design, and building creative projects  
+- 📚 Lifelong learner, driven by curiosity and problem-solving   
 - ✨ Bringing together **logic + creativity** to uncover patterns in data  
 
 ---
@@ -29,7 +28,6 @@
 ### ✨ Featured Projects
 - 🍽️ [**Today’s Meal**](#) — A platform connecting cloud kitchens with customers  
 - 🌌 [**Data Explorer**](#) — Finding constellations in complex datasets  
-- 🎮 [**Pixel Game Prototype**](#) — Experimenting with design, code, and playfulness  
 
 ---
 
