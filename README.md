@@ -1,62 +1,61 @@
-<!-- Banner -->
-<h1 align="center">🌸 Hi, I'm Esraa ✨</h1>
+<!-- Fairy Banner -->
+<h1 align="center">🌙✨ Hi, I’m Esraa ✨🌙</h1>
 <p align="center">
-  <em>Aspiring Data Scientist 📊 | Data Analyst | Pixel Game Enthusiast 🎮</em>
+  <em>💻 Aspiring Data Scientist | 📚 Curious Learner | 🌸 Mystic Nerd at Heart</em>
 </p>
 
 ---
 
 ### 🌸 About Me
-- 🎓 Business Information Systems Graduate | Always learning new tech  
-- 💡 Turning **raw data** into **insights & stories**  
-- 🌌 Passionate about AI, analytics, and exploring big ideas  
-- 🎮 Love pixel-art games & creating playful projects  
-- ☁️ Believer in cute aesthetics + data + space ✨  
+🌷 Lover of data, stories, and a sprinkle of magic  
+🌌 Exploring the stars of analytics & AI  
+📖 Always learning (and sometimes daydreaming ✨)  
+🎮 Gamer soul — pixel worlds, fairy adventures, and cozy vibes  
+🧚 Nerdy, curious, and chasing wonder everywhere  
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Skills & Spells
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD6E0?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-FFE8A3?style=for-the-badge&logo=postgresql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PowerBI-CDE7FF?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-F8C8DC?style=for-the-badge&logo=tableau&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-E0BBE4?style=for-the-badge&logo=microsoft-excel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-ffcad4?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-b5ead7?style=for-the-badge&logo=postgresql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerBI-ffdac1?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-e2f0cb?style=for-the-badge&logo=tableau&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-c7ceea?style=for-the-badge&logo=microsoft-excel&logoColor=black"/>
 </p>
 
 ---
 
-### 🌟 Featured Projects
-- 🍽️ [**Today's Meal**](#) — Connecting cloud kitchens with customers  
-- 🌌 [**Data Explorer**](#) — Discovering insights through analytics  
-- 🎮 [**Pixel Game Prototype**](#) — Cute pixel-art experiment  
+### ✨ Featured Projects
+🌸 [**Today’s Meal**](#) — Homey food magic with cloud kitchens  
+🌙 [**Data Explorer**](#) — Turning messy data into constellations 🌌  
+🎮 [**Pixel Fairy Game**](#) — A tiny nerdy fantasy world in code  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Mystic Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esraayasser&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraayasser&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=esraayasser&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraayasser&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### ✨ Cute Space Corner
+### 🧚 Fairy Corner
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>  
-  <br> ☁️⭐ *"Exploring data like constellations in the sky..."* ⭐☁️  
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200"/>  
+  <br> 🌙💫 *“Learning is a kind of magic — and data is my spellbook.”* 💫🌙  
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Where to Find Me
 <p align="center">
-  <a href="www.linkedin.com/in/esraa-yasser-0a592a222"><img src="https://img.shields.io/badge/LinkedIn-FFD6E0?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="https://www.kaggle.com/esraayasser"><img src="https://img.shields.io/badge/Kaggle-CDE7FF?style=for-the-badge&logo=kaggle&logoColor=black"/></a>
-  <a href="esraayasser.framer.website"><img src="https://img.shields.io/badge/Portfolio-E0BBE4?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
+  <a href="your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-ffcad4?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="your-kaggle"><img src="https://img.shields.io/badge/Kaggle-b5ead7?style=for-the-badge&logo=kaggle&logoColor=black"/></a>
+  <a href="your-portfolio"><img src="https://img.shields.io/badge/Portfolio-c7ceea?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
 </p>
 
 ---
 
-🌸✨☁️⭐🌌 *Thanks for visiting my profile!* 🌌⭐☁️✨🌸
-
+🌸🌙✨☁️ *Thanks for visiting my magical little corner of GitHub!* ☁️✨🌙🌸
