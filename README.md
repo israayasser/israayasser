@@ -51,9 +51,9 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-FFD6E0?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="your-kaggle"><img src="https://img.shields.io/badge/Kaggle-CDE7FF?style=for-the-badge&logo=kaggle&logoColor=black"/></a>
-  <a href="your-portfolio"><img src="https://img.shields.io/badge/Portfolio-E0BBE4?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
+  <a href="www.linkedin.com/in/esraa-yasser-0a592a222"><img src="https://img.shields.io/badge/LinkedIn-FFD6E0?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://www.kaggle.com/esraayasser"><img src="https://img.shields.io/badge/Kaggle-CDE7FF?style=for-the-badge&logo=kaggle&logoColor=black"/></a>
+  <a href="esraayasser.framer.website"><img src="https://img.shields.io/badge/Portfolio-E0BBE4?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
 </p>
 
 ---
