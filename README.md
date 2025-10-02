@@ -51,9 +51,9 @@
 
 ### 📫 Where to Find Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/esraa-yasser-0a592a222/">"><img src="https://img.shields.io/badge/LinkedIn-ffcad4?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/esraa-yasser-0a592a222/"><img src="https://img.shields.io/badge/LinkedIn-ffcad4?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
   <a href="https://www.kaggle.com/esraayasser"><img src="https://img.shields.io/badge/Kaggle-b5ead7?style=for-the-badge&logo=kaggle&logoColor=black"/></a>
-  <a href="[your-portfolio](https://esraayasser.framer.website/)"><img src="https://img.shields.io/badge/Portfolio-c7ceea?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
+  <a href="https://esraayasser.framer.website/"><img src="https://img.shields.io/badge/Portfolio-c7ceea?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
 </p>
 
 ---
